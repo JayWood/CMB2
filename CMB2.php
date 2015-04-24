@@ -1,5 +1,5 @@
 <?php
-
+die();
 /**
  * Helper function to provide directory path to CMB
  * @since  2.0.0
